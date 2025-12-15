@@ -1,0 +1,2 @@
+# Firebase_MS
+学生が作成したfirebaseの公開デバッグ環境
